@@ -11,7 +11,7 @@ public class Lion extends Cat
 	{
 		System.out.println(getmain()+ "Roared");
 	}
-	public void getmainColor()
+	public void setmainColor()
 	{
 		colorMane();
 	}
