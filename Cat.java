@@ -17,7 +17,7 @@ public class Cat
 	{
 		name = N;
 	}
-	public int getAge()
+	public void getAge()
 	{
 		return age;
 	}
